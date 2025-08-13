@@ -1,4 +1,0 @@
-# Empêche les moteurs de recherche d’indexer tout le site
-User-agent: *
-Disallow: /
-
